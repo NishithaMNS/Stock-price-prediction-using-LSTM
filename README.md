@@ -105,7 +105,6 @@ stock-price-prediction-lstm/
 │   └── results.html      # Results page with charts and metrics
 ├── static/
 │   └── styles.css        # Custom CSS styles (if any)
-├── requirements.txt      # List of required Python libraries
 └── README.md             # Project documentation
 ```
 
