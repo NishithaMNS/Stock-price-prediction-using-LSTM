@@ -1,4 +1,4 @@
-# Stock Price Prediction Web Application using LSTM
+# Stock Price Prediction using LSTM
 
 This is a web application built using **Flask** and **Keras** to predict stock prices using the **LSTM (Long Short-Term Memory)** deep learning model. The model is trained on historical stock price data to predict future stock prices, and the application visualizes the results through interactive **Plotly** charts.
 
